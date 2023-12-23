@@ -16,11 +16,10 @@ The To-Do List Application is a simple and user-friendly task management tool bu
 - **JSON:** For storing and loading task data persistently.
 
 ## 🚀 Getting Started
-<br>
-<br>
+
 To run the To-do List on your local machine, follow these steps:
 <br>
 - **Clone the Repository:** git clone https://github.com/Dababykogitarl/To-Do-List.git
-
 <br>
-Author - Mansi Khand
+<br>
+### Author - Mansi Khand
