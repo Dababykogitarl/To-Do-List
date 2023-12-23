@@ -1,4 +1,25 @@
 # To-do-List
-The project is a simple to-do list application built in Python using the Tkinter library for the graphical interface. It allows users to add, delete, and mark tasks as done, with tasks persistently saved to a file, providing a basic and user-friendly task management tool.  Tasks are visually differentiated, with completed tasks highlighted in lime green. On startup, the application loads tasks from a JSON file, promoting a seamless user experience.
+# 📝 To-Do List Application
+
+The To-Do List Application is a simple and user-friendly task management tool built with Python and Tkinter.
+
+## 🚀 Features
+
+- ✅ Add, delete, and mark tasks as done.
+- 🎨 Visually differentiate tasks, with completed tasks highlighted in lime green.
+- 📂 Persistence: Tasks are saved to a file, and on startup, the application loads tasks from a JSON file.
+
+## 💻 Technologies Used
+
+- **Python:** The primary programming language for building the application.
+- **Tkinter:** The GUI (Graphical User Interface) library used for creating the interactive interface.
+- **JSON:** For storing and loading task data persistently.
+
+## 🚀 Getting Started
+
+To run the To-do List on your local machine, follow these steps:
+**Clone the Repository:**
+git clone https://github.com/Dababykogitarl/To-Do-List.git
+
 <br>
 Author - Mansi Khand
