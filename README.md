@@ -1,2 +1,2 @@
-# To-Do-List
+# To-do-List
 Author - Mansi Khand
