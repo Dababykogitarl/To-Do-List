@@ -1,5 +1,5 @@
 # To-do-List
-##📝 To-Do List Application
+## 📝 To-Do List Application
 
 The To-Do List Application is a simple and user-friendly task management tool built with Python and Tkinter.
 
@@ -16,10 +16,11 @@ The To-Do List Application is a simple and user-friendly task management tool bu
 - **JSON:** For storing and loading task data persistently.
 
 ## 🚀 Getting Started
-
-- To run the To-do List on your local machine, follow these steps:
-  **Clone the Repository:**
-  git clone https://github.com/Dababykogitarl/To-Do-List.git
+<br>
+<br>
+To run the To-do List on your local machine, follow these steps:
+<br>
+- **Clone the Repository:** git clone https://github.com/Dababykogitarl/To-Do-List.git
 
 <br>
 Author - Mansi Khand
